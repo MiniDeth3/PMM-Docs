@@ -1,2 +1,3 @@
 index
 =====
+:doc:`test`
