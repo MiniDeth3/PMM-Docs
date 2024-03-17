@@ -1,6 +1,7 @@
 index
 =====
-:doc:`test`
-
+This is a simple index for the Pirate Mini Mod. (PMM)
 .. toctree::
-    test
+    Ships
+    Characters
+    
